@@ -1,2 +1,2 @@
 # CSE-103-LAB-3
-CS Fundamental Repo
+CS Fundamental Reposetory
